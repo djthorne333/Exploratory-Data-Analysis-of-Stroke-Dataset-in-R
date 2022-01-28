@@ -1,6 +1,6 @@
 # Exploratory Data Analysis of Stroke Dataset in R 
 
-### Author: datadave333@gmail.com
+### Author: Thorneinsight@gmail.com
 
 ## Description of Data
 
